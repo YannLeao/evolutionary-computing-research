@@ -7,8 +7,8 @@ The most important components:
 - evaluation function (or [[fitness-function]]) 
 - [[population]] 
 - [[parent-selection]] mechanism 
-- variation operators, [[recombination]] and [[mutation]] 
-- survivor selection mechanism ([[replacement]])
+- variation operators, [[recombination-or-crossover]] and [[mutation]] 
+- [[survivor-selection]] mechanism (replacement)
 
 ## In Context
 Where this appears:
