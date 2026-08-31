@@ -8,6 +8,8 @@ __pycache__/
 *.tmp
 *.temp
 *.bak
+/temp
+/tmp
 
 # Dados grandes ou sensíveis (não versionados)
 data/raw/
